@@ -3,3 +3,4 @@ bookmarks:
 DL4J Deeplearning for Java
 http://deeplearning4j.org/ja-gettingstarted.html
 
+http://qiita.com/HirofumiYashima/items/6a5ef1d4b592c51eedba
